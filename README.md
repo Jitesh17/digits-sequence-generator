@@ -4,9 +4,6 @@
 [![Build Status](https://travis-ci.org/GeorgiosGoniotakis/python-hierarchy.svg?branch=master)](https://github.com/Jitesh17/digits-sequence-generator)
 [![license: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
-## Table of Contents
-
-[TOC]
 
 This program generates images representing sequences of numbers. The images representing each digit is taken from the [MNIST database](http://yann.lecun.com/exdb/mnist/).
 
